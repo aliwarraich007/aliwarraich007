@@ -8,6 +8,10 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 
 # Work Stats:
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aliwarraich007&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliwarraich007&theme=nightowl&hide_border=true)<br/>
