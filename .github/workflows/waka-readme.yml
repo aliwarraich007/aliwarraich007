@@ -12,6 +12,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: aliwarraich007/waka-readme@master
+      - uses: aliwarraich007/aliwarraich007@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
