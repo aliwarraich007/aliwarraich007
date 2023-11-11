@@ -11,7 +11,7 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.0%20thousand%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on November 10, 2023 UTC
+ Last Updated on November 11, 2023 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
