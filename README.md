@@ -42,15 +42,13 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 hrs 50 mins       █████████████████████████   99.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 3 hrs 48 mins       ████████████████████░░░░░   78.55 % 
-VS Code                  1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
