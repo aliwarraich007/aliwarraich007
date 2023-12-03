@@ -11,7 +11,7 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.4%20thousand%20lines%20of%20code-blue)
 
@@ -42,13 +42,15 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 30 mins        █████████████████████████   99.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,7 +65,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on December 02, 2023 UTC
+ Last Updated on December 03, 2023 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
