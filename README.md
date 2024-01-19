@@ -11,7 +11,7 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.1%20thousand%20lines%20of%20code-blue)
 
@@ -42,13 +42,17 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Dart                     8 mins              █████████████████████████   100.00 % 
+Dart                     1 hr 55 mins        █████████████░░░░░░░░░░░░   53.72 % 
+YAML                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
