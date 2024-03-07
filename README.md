@@ -11,7 +11,7 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.5%20thousand%20lines%20of%20code-blue)
 
@@ -59,17 +59,17 @@ Mac                      11 hrs 30 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on March 06, 2024 UTC
+ Last Updated on March 07, 2024 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
