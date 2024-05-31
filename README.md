@@ -11,7 +11,7 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205.0%20thousand%20lines%20of%20code-blue)
 
@@ -42,15 +42,15 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr 55 mins        █████████████████████████   99.74 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JavaScript               3 hrs 29 mins       █████████████████████████   99.83 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        ███████████████████░░░░░░   74.93 % 
-WebStorm                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+VS Code                  2 hrs 3 mins        ███████████████░░░░░░░░░░   58.93 % 
+WebStorm                 1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   41.07 % 
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
