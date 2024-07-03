@@ -11,9 +11,9 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 [![wakatime](https://wakatime.com/badge/user/018b0b97-0c04-48f3-9d15-f7d3e8f6c544.svg)](https://wakatime.com/@018b0b97-0c04-48f3-9d15-f7d3e8f6c544)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278.7%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,12 +27,12 @@ Hey there! 👋 I'm Muhammad Ali, a Junior Developer who's absolutely enamored w
 
 ```text
 Monday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  96 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Tuesday                  97 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 Wednesday                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 Thursday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Friday                   180 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Sunday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
 ```
 
 
@@ -60,16 +60,16 @@ Mac                      19 hrs 31 mins      ███████████�
 
 ```text
 TypeScript               13 repos            ███████████░░░░░░░░░░░░░░   44.83 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on July 02, 2024 UTC
+ Last Updated on July 03, 2024 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
