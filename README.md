@@ -1,6 +1,6 @@
 
 ## 🧑🏼‍💻 Visits:
-[![](https://visitcount.itsvg.in/api?id=aliwarraich007&icon=10&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aliwarraich007&icon=10&color=9)](https://visitcount.itsvg.in) [](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk5bTFiYmY5dWV3bDVpcGk1dm5yejhlZmIxbWdzOGxtdXIwZXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CJ6jhaSlBg62RimMnT/giphy.webp)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-a-1570b622c/) 
 
