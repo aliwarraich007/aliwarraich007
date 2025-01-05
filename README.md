@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -46,17 +46,13 @@ Sunday                   637 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               5 hrs 34 mins       ██████████████████████░░░   88.52 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
