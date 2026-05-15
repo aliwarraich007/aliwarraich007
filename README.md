@@ -15,9 +15,48 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2058%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.09%20million%20lines%20of%20code-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.89%20million%20lines%20of%20code-blue?style=flat)
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15038 commits       ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌆 Daytime                11382 commits       ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌃 Evening                3157 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+🌙 Night                  6632 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6437 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  6003 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                6116 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 5879 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Friday                   4340 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Saturday                 4208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Sunday                   3226 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+TypeScript               13 hrs 48 mins      ████████████████████████░   95.94 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 28 mins       ████████████████░░░░░░░░░   65.82 % 
+Antigravity              4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
+
+💻 Operating System: 
+Mac                      14 hrs 23 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
