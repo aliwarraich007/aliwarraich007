@@ -15,51 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C227%20hrs%2033%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.27%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14571 commits       ██████████░░░░░░░░░░░░░░░   41.37 % 
-🌆 Daytime                11097 commits       ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌃 Evening                3109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-🌙 Night                  6442 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6267 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Tuesday                  5846 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Wednesday                5937 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 5719 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Friday                   4211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Saturday                 4102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Sunday                   3137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-TypeScript               18 hrs 14 mins      ████████████████████████░   94.94 % 
-XML                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 19 mins      █████████████░░░░░░░░░░░░   53.72 % 
-Antigravity              8 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.03 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-💻 Operating System: 
-Mac                      19 hrs 12 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.32%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
