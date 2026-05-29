@@ -15,7 +15,49 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%2015%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.38%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14615 commits       ██████████░░░░░░░░░░░░░░░   41.42 % 
+🌆 Daytime                11101 commits       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                3109 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+🌙 Night                  6463 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Tuesday                  5851 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                5937 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Thursday                 5723 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Friday                   4225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Saturday                 4122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Sunday                   3145 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+TypeScript               13 hrs 34 mins      █████████████████████████   99.63 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 34 mins      █████████████████████████   99.65 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+💻 Operating System: 
+Mac                      13 hrs 37 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
