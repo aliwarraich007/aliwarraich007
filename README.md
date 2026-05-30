@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C234%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,17 +46,14 @@ Sunday                   3145 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               13 hrs 34 mins      █████████████████████████   99.63 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               9 hrs 12 mins       █████████████████████████   99.47 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 34 mins      █████████████████████████   99.65 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  9 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +69,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on May 29, 2026 UTC
+ Last Updated on May 30, 2026 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
