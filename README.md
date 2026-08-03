@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C277%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
 
@@ -48,15 +48,16 @@ Sunday                   3251 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 mins              ██████████████░░░░░░░░░░░   58.00 % 
-TypeScript               3 mins              ██████████░░░░░░░░░░░░░░░   42.00 % 
+JavaScript               53 mins             ███████████████░░░░░░░░░░   58.09 % 
+TypeScript               34 mins             █████████░░░░░░░░░░░░░░░░   36.73 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-VS Code                  5 mins              ███████████████░░░░░░░░░░   60.40 % 
-Antigravity IDE          3 mins              ██████████░░░░░░░░░░░░░░░   39.60 % 
+Antigravity IDE          1 hr 27 mins        ████████████████████████░   94.60 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
