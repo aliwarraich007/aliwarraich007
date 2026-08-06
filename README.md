@@ -48,16 +48,16 @@ Sunday                   3251 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               53 mins             ██████████████░░░░░░░░░░░   56.30 % 
-TypeScript               36 mins             ██████████░░░░░░░░░░░░░░░   38.26 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+JavaScript               53 mins             ██████████████░░░░░░░░░░░   57.95 % 
+TypeScript               33 mins             █████████░░░░░░░░░░░░░░░░   36.45 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 27 mins        ███████████████████████░░   91.70 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Antigravity IDE          1 hr 27 mins        ████████████████████████░   94.39 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
