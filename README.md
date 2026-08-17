@@ -48,10 +48,12 @@ Sunday                   3257 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+TypeScript               0 secs              ███████████████████████░░   93.57 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Antigravity IDE          0 secs              ███████████████████████░░   93.57 % 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 💻 Operating System: 
 Mac                      0 secs              █████████████████████████   100.00 % 
