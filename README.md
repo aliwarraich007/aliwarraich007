@@ -15,30 +15,30 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C283%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.92%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15078 commits       ███████████░░░░░░░░░░░░░░   43.81 % 
-🌆 Daytime                10188 commits       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-🌃 Evening                2567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-🌙 Night                  6582 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+🌞 Morning                15126 commits       ███████████░░░░░░░░░░░░░░   43.84 % 
+🌆 Daytime                10211 commits       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+🌃 Evening                2567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌙 Night                  6598 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5895 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Tuesday                  5172 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Wednesday                5484 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Thursday                 6228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Friday                   4088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Saturday                 4033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   3515 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Monday                   5921 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Tuesday                  5205 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Wednesday                5487 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 6239 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Friday                   4093 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 4033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Sunday                   3524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 
@@ -48,15 +48,16 @@ Sunday                   3515 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               0 secs              ███████████████████████░░   93.57 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+TypeScript               2 hrs 34 mins       █████████████░░░░░░░░░░░░   52.45 % 
+JavaScript               2 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.55 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity IDE          0 secs              ███████████████████████░░   93.57 % 
-VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Antigravity IDE          4 hrs 54 mins       █████████████████████████   99.99 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,11 +69,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               35 repos            ███████████████░░░░░░░░░░   60.34 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+TypeScript               36 repos            ███████████████░░░░░░░░░░   61.02 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
