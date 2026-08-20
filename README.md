@@ -15,7 +15,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C290%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
 
@@ -24,7 +24,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15144 commits       ███████████░░░░░░░░░░░░░░   43.86 % 
+🌞 Morning                15146 commits       ███████████░░░░░░░░░░░░░░   43.87 % 
 🌆 Daytime                10213 commits       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
 🌃 Evening                2567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 🌙 Night                  6602 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
@@ -32,10 +32,10 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5923 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Monday                   5923 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 Tuesday                  5225 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 Wednesday                5489 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Thursday                 6239 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Thursday                 6241 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 Friday                   4093 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Saturday                 4033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 Sunday                   3524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
@@ -48,16 +48,18 @@ Sunday                   3524 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 44 mins       █████████████░░░░░░░░░░░░   52.43 % 
-JavaScript               4 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.57 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               5 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.69 % 
+JavaScript               5 hrs 54 mins       ████████████░░░░░░░░░░░░░   49.06 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 1 min         █████████████████████████   100.00 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Antigravity IDE          11 hrs 54 mins      █████████████████████████   98.84 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
