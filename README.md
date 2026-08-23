@@ -15,30 +15,30 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C300%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.90%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15831 commits       ███████████░░░░░░░░░░░░░░   43.76 % 
-🌆 Daytime                10756 commits       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-🌃 Evening                2656 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-🌙 Night                  6936 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌞 Morning                14078 commits       ███████████░░░░░░░░░░░░░░   44.39 % 
+🌆 Daytime                9263 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌃 Evening                2385 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+🌙 Night                  5991 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6177 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Tuesday                  5456 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                5682 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 6500 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Friday                   4328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Saturday                 4254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Sunday                   3782 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Monday                   5500 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  4832 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                5148 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Thursday                 5791 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Friday                   3714 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Saturday                 3675 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Sunday                   3057 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 ```
 
 
@@ -48,18 +48,18 @@ Sunday                   3782 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               11 hrs 4 mins       ███████████████░░░░░░░░░░   58.27 % 
-TypeScript               7 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.94 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JavaScript               12 hrs 6 mins       ██████████████░░░░░░░░░░░   54.42 % 
+TypeScript               9 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 52 mins      █████████████████████████   99.26 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Antigravity IDE          22 hrs 7 mins       █████████████████████████   99.37 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      19 hrs              █████████████████████████   100.00 % 
+Mac                      22 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
