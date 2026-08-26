@@ -1,6 +1,10 @@
 
 ## 🧑🏼‍💻 Visits:
 [![](https://visitcount.itsvg.in/api?id=aliwarraich007&icon=10&color=9)](https://visitcount.itsvg.in)
+
+## 🔝 Rankistan:
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Faliwarraich007&style=flat)](https://rankistan.dev/#aliwarraich007)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-a-1570b622c/)
 
