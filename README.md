@@ -19,28 +19,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.97%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14133 commits       ███████████░░░░░░░░░░░░░░   44.44 % 
+🌞 Morning                14135 commits       ███████████░░░░░░░░░░░░░░   44.44 % 
 🌆 Daytime                9290 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
 🌃 Evening                2385 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-🌙 Night                  5997 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌙 Night                  5997 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   5506 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  4871 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Tuesday                  4871 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 Wednesday                5155 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 Thursday                 5810 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Friday                   3714 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Friday                   3716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 Saturday                 3685 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 Sunday                   3064 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
@@ -52,23 +52,40 @@ Sunday                   3064 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               9 hrs 34 mins       █████████████░░░░░░░░░░░░   50.46 % 
-JavaScript               9 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.48 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               14 hrs 20 mins      █████████████████░░░░░░░░   68.22 % 
+JavaScript               6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 10 mins      ████████████████████████░   95.75 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Antigravity IDE          20 hrs 12 mins      ████████████████████████░   96.16 % 
+VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Mac                      18 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 25 mins (2.04%)
+
+✍️ 20 lines written by AI, 4,325 lines written by hand (0.46% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     20 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.46% of written lines came from AI
+📚 Verbose Prompter — average 3,424 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +101,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on August 27, 2026 UTC
+ Last Updated on August 28, 2026 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
