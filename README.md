@@ -28,19 +28,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14444 commits       ███████████░░░░░░░░░░░░░░   44.35 % 
+🌞 Morning                14445 commits       ███████████░░░░░░░░░░░░░░   44.35 % 
 🌆 Daytime                9548 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
 🌃 Evening                2422 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌙 Night                  6153 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+🌙 Night                  6155 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5621 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Monday                   5624 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
 Tuesday                  4972 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 Wednesday                5243 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Thursday                 5938 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Friday                   3809 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Friday                   3809 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 Saturday                 3789 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 Sunday                   3195 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
@@ -52,26 +52,26 @@ Sunday                   3195 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               19 hrs 55 mins      ████████████████████░░░░░   78.58 % 
-JavaScript               4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               22 hrs 30 mins      ███████████████████░░░░░░   76.54 % 
+JavaScript               5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Antigravity IDE          23 hrs 36 mins      ███████████████████████░░   93.10 % 
-VS Code                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Antigravity IDE          27 hrs 26 mins      ███████████████████████░░   93.34 % 
+VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 💻 Operating System: 
-Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (1.69%)
+⏱ AI Coding Time: 25 mins (1.46%)
 
-✍️ 20 lines written by AI, 4,939 lines written by hand (0.4% AI-written)
+✍️ 20 lines written by AI, 5,783 lines written by hand (0.34% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -82,10 +82,10 @@ Mac                      25 hrs 21 mins      ███████████�
 Opus                     20 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.4% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.34% of written lines came from AI
 📚 Verbose Prompter — average 3,424 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
