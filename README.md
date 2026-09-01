@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
 
@@ -52,26 +52,26 @@ Sunday                   3173 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               22 hrs 30 mins      ███████████████████░░░░░░   76.54 % 
-JavaScript               5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               21 hrs 26 mins      ████████████████████░░░░░   78.73 % 
+JavaScript               4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Antigravity IDE          27 hrs 26 mins      ███████████████████████░░   93.34 % 
-VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Antigravity IDE          25 hrs 16 mins      ███████████████████████░░   92.81 % 
+VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 💻 Operating System: 
-Mac                      29 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (1.46%)
+⏱ AI Coding Time: 25 mins (1.58%)
 
-✍️ 20 lines written by AI, 5,783 lines written by hand (0.34% AI-written)
+✍️ 20 lines written by AI, 4,911 lines written by hand (0.41% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -82,10 +82,10 @@ Mac                      29 hrs 24 mins      ███████████�
 Opus                     20 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.34% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.41% of written lines came from AI
 📚 Verbose Prompter — average 3,424 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
