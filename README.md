@@ -52,26 +52,26 @@ Sunday                   3173 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               18 hrs 52 mins      ████████████████████░░░░░   81.80 % 
-JavaScript               3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               17 hrs 56 mins      ████████████████████░░░░░   81.07 % 
+JavaScript               3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Antigravity IDE          21 hrs 7 mins       ███████████████████████░░   91.52 % 
-VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Antigravity IDE          20 hrs 59 mins      ████████████████████████░   94.80 % 
+VS Code                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-Mac                      23 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (1.86%)
+⏱ AI Coding Time: 25 mins (1.94%)
 
-✍️ 20 lines written by AI, 3,804 lines written by hand (0.52% AI-written)
+✍️ 20 lines written by AI, 3,674 lines written by hand (0.54% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -82,10 +82,10 @@ Mac                      23 hrs 4 mins       ███████████�
 Opus                     20 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.52% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.54% of written lines came from AI
 📚 Verbose Prompter — average 3,424 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
