@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
 
@@ -52,40 +52,24 @@ Sunday                   3173 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               17 hrs 56 mins      ████████████████████░░░░░   81.07 % 
-JavaScript               3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript               12 hrs 26 mins      ███████████████████░░░░░░   75.03 % 
+JavaScript               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Antigravity IDE          20 hrs 59 mins      ████████████████████████░   94.80 % 
-VS Code                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Antigravity IDE          15 hrs 24 mins      ███████████████████████░░   92.92 % 
+VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-Mac                      22 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (1.94%)
-
-✍️ 20 lines written by AI, 3,674 lines written by hand (0.54% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     20 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.54% of written lines came from AI
-📚 Verbose Prompter — average 3,424 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.65% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
