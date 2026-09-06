@@ -23,7 +23,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.07%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -31,7 +31,7 @@
 🌞 Morning                14414 commits       ███████████░░░░░░░░░░░░░░   44.28 % 
 🌆 Daytime                9572 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
 🌃 Evening                2422 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌙 Night                  6146 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌙 Night                  6147 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -42,7 +42,7 @@ Wednesday                5237 commits        ████░░░░░░░�
 Thursday                 5940 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 Friday                   3809 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 Saturday                 3773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Sunday                   3173 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   3174 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 ```
 
 
@@ -52,18 +52,17 @@ Sunday                   3173 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               6 hrs 52 mins       █████████████████░░░░░░░░   66.55 % 
-JavaScript               3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               3 hrs 42 mins       ███████████████░░░░░░░░░░   58.72 % 
+JavaScript               2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.59 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 16 mins       ██████████████████████░░░   89.75 % 
-VS Code                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Antigravity IDE          6 hrs 5 mins        ████████████████████████░   96.36 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Mac                      10 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
