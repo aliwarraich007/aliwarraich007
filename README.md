@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C378%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C380%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2012%20mins-blue?style=flat)
 
@@ -52,26 +52,26 @@ Sunday                   3304 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               16 hrs 50 mins      ████████████░░░░░░░░░░░░░   48.13 % 
-JavaScript               10 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Docker                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Bash                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript               14 hrs 34 mins      ████████████░░░░░░░░░░░░░   46.20 % 
+JavaScript               9 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+SQL                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Docker                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-Antigravity IDE          34 hrs 16 mins      ████████████████████████░   97.93 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Antigravity IDE          30 hrs 53 mins      ████████████████████████░   97.89 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      34 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (3.71%)
+⏱ AI Coding Time: 1 hr 17 mins (4.12%)
 
-✍️ 0 lines written by AI, 82,430 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 81,862 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
