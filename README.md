@@ -23,25 +23,25 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.63%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14823 commits       ███████████░░░░░░░░░░░░░░   44.28 % 
-🌆 Daytime                9832 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌞 Morning                14823 commits       ███████████░░░░░░░░░░░░░░   44.29 % 
+🌆 Daytime                9830 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
 🌃 Evening                2551 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-🌙 Night                  6268 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+🌙 Night                  6265 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   5670 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 Tuesday                  5043 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                5627 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Wednesday                5625 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 Thursday                 6049 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Friday                   3892 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Saturday                 3889 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Friday                   3891 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Saturday                 3887 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 Sunday                   3304 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 
@@ -52,36 +52,36 @@ Sunday                   3304 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               13 hrs 22 mins      ████████████░░░░░░░░░░░░░   46.97 % 
-JavaScript               7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Docker                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+TypeScript               12 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.82 % 
+JavaScript               5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Docker                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+SQL                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Antigravity IDE          27 hrs 49 mins      ████████████████████████░   97.74 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Antigravity IDE          24 hrs 55 mins      ████████████████████████░   97.48 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Mac                      28 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (4.56%)
+⏱ AI Coding Time: 39 mins (2.57%)
 
-✍️ 0 lines written by AI, 81,508 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 81,204 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,030 characters per prompt
+📚 Verbose Prompter — average 3,554 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -89,11 +89,11 @@ Mac                      28 hrs 27 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               37 repos            ████████████████░░░░░░░░░   62.71 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+TypeScript               34 repos            ███████████████░░░░░░░░░░   60.71 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 
