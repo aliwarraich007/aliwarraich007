@@ -31,13 +31,13 @@
 🌞 Morning                15257 commits       ███████████░░░░░░░░░░░░░░   44.30 % 
 🌆 Daytime                10142 commits       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
 🌃 Evening                2606 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌙 Night                  6436 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+🌙 Night                  6437 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   5796 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Tuesday                  5151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Tuesday                  5152 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 Wednesday                5768 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 Thursday                 6249 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 Friday                   4010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
@@ -52,16 +52,18 @@ Sunday                   3462 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-TypeScript               2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
-SQL                      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+JavaScript               3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
+TypeScript               2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
+SQL                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+C#                       54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 24 mins       █████████████████████░░░░   85.88 % 
-VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Antigravity IDE          6 hrs 26 mins       ██████████████████░░░░░░░   72.21 % 
+VS Code                  2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
 
 💻 Operating System: 
-Mac                      6 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,11 +75,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ███████████████░░░░░░░░░░   60.71 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+TypeScript               34 repos            ███████████████░░░░░░░░░░   59.65 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
