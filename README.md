@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C402%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C405%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2012%20mins-blue?style=flat)
 
@@ -52,18 +52,18 @@ Sunday                   3221 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.23 % 
-JavaScript               6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
-SQL                      2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-C#                       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JavaScript               7 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+TypeScript               7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
+SQL                      2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C#                       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 47 mins      █████████████████░░░░░░░░   68.40 % 
-Antigravity IDE          5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+VS Code                  10 hrs 54 mins      ██████████████░░░░░░░░░░░   56.25 % 
+Antigravity IDE          8 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
 
 💻 Operating System: 
-Mac                      17 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,7 +85,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on October 05, 2026 UTC
+ Last Updated on October 06, 2026 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
