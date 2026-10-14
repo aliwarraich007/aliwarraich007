@@ -19,17 +19,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C413%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.75%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14663 commits       ███████████░░░░░░░░░░░░░░   44.41 % 
-🌆 Daytime                9712 commits        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌞 Morning                14666 commits       ███████████░░░░░░░░░░░░░░   44.42 % 
+🌆 Daytime                9712 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 🌃 Evening                2519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 🌙 Night                  6121 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 ```
@@ -38,9 +38,9 @@
 ```text
 Monday                   5566 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Tuesday                  4950 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Wednesday                5587 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 6022 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Friday                   3868 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Wednesday                5589 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Thursday                 6023 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Friday                   3868 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 Saturday                 3800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 Sunday                   3222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
@@ -52,17 +52,17 @@ Sunday                   3222 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       5 hrs 46 mins       ███████████████████░░░░░░   75.37 % 
-TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+C#                       8 hrs 22 mins       ████████████████████░░░░░   80.01 % 
+TypeScript               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
