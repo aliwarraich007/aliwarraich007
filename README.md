@@ -53,7 +53,7 @@ Sunday                   3222 commits        ██░░░░░░░░░�
 
 💬 Programming Languages: 
 C#                       7 hrs 48 mins       ████████████████░░░░░░░░░   65.57 % 
-TypeScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+TypeScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 Prisma                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
@@ -63,7 +63,7 @@ VS Code                  11 hrs 41 mins      ███████████�
 Antigravity IDE          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Mac                      11 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
