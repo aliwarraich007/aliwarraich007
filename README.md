@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C419%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2012%20mins-blue?style=flat)
 
@@ -29,16 +29,16 @@
 
 ```text
 🌞 Morning                13884 commits       ███████████░░░░░░░░░░░░░░   44.18 % 
-🌆 Daytime                9300 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌆 Daytime                9301 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
 🌃 Evening                2443 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-🌙 Night                  5800 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+🌙 Night                  5800 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   5320 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 Tuesday                  4706 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Wednesday                5329 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                5330 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 Thursday                 5663 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 Friday                   3684 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 Saturday                 3628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
@@ -52,18 +52,18 @@ Sunday                   3097 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
-TypeScript               1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Prisma                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+TypeScript               2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.89 % 
+JSON                     1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Prisma                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+C#                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        ████████████████████████░   96.71 % 
-Antigravity IDE          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+VS Code                  4 hrs 7 mins        ██████████████████░░░░░░░   70.87 % 
+Antigravity IDE          1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 
 💻 Operating System: 
-Mac                      6 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
