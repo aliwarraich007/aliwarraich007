@@ -1,6 +1,6 @@
 
 ## 🧑🏼‍💻 Visits:
-![Visitors](https://visit-count.vercel.app/api/count?id=aliwarraich007)
+![](https://komarev.com/ghpvc/?username=aliwarraich007)
 
 ## 🔝 Rankistan:
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Faliwarraich007&style=flat)](https://rankistan.dev/#aliwarraich007)
