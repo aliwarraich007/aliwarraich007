@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [master]
     paths-ignore:
       - 'README.md'   # prevents a loop, since the action commits to README.md
   schedule:
