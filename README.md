@@ -95,7 +95,7 @@ Have a project in mind? I'm open to freelance and contract work.
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C466%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
@@ -128,21 +128,21 @@ Sunday                   2972 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       5 hrs 48 mins       ████████████████░░░░░░░░░   63.79 % 
-TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Text                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C#                       10 hrs 11 mins      ██████████████████░░░░░░░   71.02 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Text                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Visual Studio            6 hrs 38 mins       ██████████████████░░░░░░░   72.96 % 
-VS Code                  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Unknown Editor           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Antigravity IDE          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+VS Code                  7 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.28 % 
+Visual Studio            6 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+Unknown Editor           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Antigravity IDE          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       ███████████████████░░░░░░   76.86 % 
-Mac                      2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Mac                      7 hrs 21 mins       █████████████░░░░░░░░░░░░   51.28 % 
+Windows                  6 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.72 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -164,5 +164,5 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on November 14, 2026 UTC
+ Last Updated on November 15, 2026 UTC
 <!--END_SECTION:waka-->
