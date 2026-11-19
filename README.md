@@ -95,7 +95,7 @@ Have a project in mind? I'm open to freelance and contract work.
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C470%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C472%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
@@ -105,17 +105,17 @@ Have a project in mind? I'm open to freelance and contract work.
 
 ```text
 🌞 Morning                1522 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-🌆 Daytime                12111 commits       ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌃 Evening                11212 commits       █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌙 Night                  6698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌆 Daytime                12111 commits       ██████████░░░░░░░░░░░░░░░   38.39 % 
+🌃 Evening                11212 commits       █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌙 Night                  6699 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   4948 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Tuesday                  5200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  5200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Wednesday                5111 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Thursday                 5645 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Thursday                 5646 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 Friday                   4198 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Saturday                 3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 Sunday                   2972 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
@@ -128,20 +128,20 @@ Sunday                   2972 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       14 hrs 3 mins       ██████████████████░░░░░░░   73.18 % 
-Other                    3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C#                       15 hrs 31 mins      ██████████████████░░░░░░░   70.61 % 
+Other                    5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 45 mins      █████████████████░░░░░░░░   66.44 % 
-Visual Studio            6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Antigravity IDE          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+VS Code                  15 hrs 46 mins      ██████████████████░░░░░░░   71.71 % 
+Visual Studio            5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Antigravity IDE          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      12 hrs 59 mins      █████████████████░░░░░░░░   67.67 % 
-Windows                  6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Mac                      16 hrs              ██████████████████░░░░░░░   72.79 % 
+Windows                  5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
 ```
 
 🤖 **AI Coding This Week** 
