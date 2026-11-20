@@ -95,7 +95,7 @@ Have a project in mind? I'm open to freelance and contract work.
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C472%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C475%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
@@ -128,20 +128,18 @@ Sunday                   2972 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       15 hrs 31 mins      ██████████████████░░░░░░░   70.61 % 
-Other                    5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C#                       15 hrs 28 mins      █████████████████░░░░░░░░   66.71 % 
+Other                    7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 46 mins      ██████████████████░░░░░░░   71.71 % 
-Visual Studio            5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Antigravity IDE          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+VS Code                  21 hrs 7 mins       ███████████████████████░░   91.03 % 
+Visual Studio            2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 💻 Operating System: 
-Mac                      16 hrs              ██████████████████░░░░░░░   72.79 % 
-Windows                  5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Mac                      21 hrs 7 mins       ███████████████████████░░   91.03 % 
+Windows                  2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 ```
 
 🤖 **AI Coding This Week** 
