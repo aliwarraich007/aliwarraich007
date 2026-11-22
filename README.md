@@ -128,15 +128,15 @@ Sunday                   2972 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       16 hrs 1 min        █████████████████░░░░░░░░   68.31 % 
-Other                    7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C#                       11 hrs 38 mins      ████████████████░░░░░░░░░   65.98 % 
+Other                    5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
