@@ -95,28 +95,28 @@ Have a project in mind? I'm open to freelance and contract work.
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C479%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C483%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1522 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-🌆 Daytime                12115 commits       ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌃 Evening                11213 commits       █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌆 Daytime                12116 commits       ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌃 Evening                11214 commits       █████████░░░░░░░░░░░░░░░░   35.54 % 
 🌙 Night                  6701 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4950 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Monday                   4952 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Tuesday                  5200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Wednesday                5111 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 Thursday                 5650 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Friday                   4198 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   4198 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 Saturday                 3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 Sunday                   2973 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 ```
@@ -128,17 +128,20 @@ Sunday                   2973 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       11 hrs 27 mins      ████████████████░░░░░░░░░   65.69 % 
-Other                    5 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C#                       13 hrs 22 mins      █████████████████░░░░░░░░   67.15 % 
+Other                    6 hrs               ████████░░░░░░░░░░░░░░░░░   30.14 % 
+UXML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+USS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 12 mins      ███████████████████████░░   92.94 % 
-Visual Studio            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+VS Code                  17 hrs 51 mins      ██████████████████████░░░   89.62 % 
+Visual Studio            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Rider                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Mac                      16 hrs 12 mins      ███████████████████████░░   92.94 % 
-Windows                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Mac                      18 hrs 33 mins      ███████████████████████░░   93.08 % 
+Windows                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,5 +163,5 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on November 23, 2026 UTC
+ Last Updated on November 24, 2026 UTC
 <!--END_SECTION:waka-->
