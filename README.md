@@ -95,11 +95,11 @@ Have a project in mind? I'm open to freelance and contract work.
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C477%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C479%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.95%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -107,17 +107,17 @@ Have a project in mind? I'm open to freelance and contract work.
 🌞 Morning                1522 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 🌆 Daytime                12115 commits       ██████████░░░░░░░░░░░░░░░   38.40 % 
 🌃 Evening                11213 commits       █████████░░░░░░░░░░░░░░░░   35.54 % 
-🌙 Night                  6699 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌙 Night                  6701 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4948 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Monday                   4950 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Tuesday                  5200 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Wednesday                5111 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 Thursday                 5650 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Friday                   4198 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Saturday                 3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 Sunday                   2973 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 ```
 
@@ -128,15 +128,17 @@ Sunday                   2973 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       11 hrs 38 mins      ████████████████░░░░░░░░░   65.98 % 
-Other                    5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+C#                       11 hrs 27 mins      ████████████████░░░░░░░░░   65.69 % 
+Other                    5 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 12 mins      ███████████████████████░░   92.94 % 
+Visual Studio            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 💻 Operating System: 
-Mac                      17 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 12 mins      ███████████████████████░░   92.94 % 
+Windows                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 ```
 
 🤖 **AI Coding This Week** 
