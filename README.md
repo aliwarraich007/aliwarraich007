@@ -95,7 +95,7 @@ Have a project in mind? I'm open to freelance and contract work.
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C487%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
@@ -128,20 +128,20 @@ Sunday                   2973 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-C#                       15 hrs 3 mins       ████████████████████░░░░░   80.12 % 
-Other                    3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-UXML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-USS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C#                       12 hrs 10 mins      ██████████████████████░░░   88.94 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+UXML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+USS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 35 mins      █████████████████████░░░░   82.96 % 
-Visual Studio            2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Rider                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+VS Code                  10 hrs 14 mins      ███████████████████░░░░░░   74.74 % 
+Visual Studio            2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Rider                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Mac                      16 hrs 16 mins      ██████████████████████░░░   86.63 % 
-Windows                  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Mac                      10 hrs 55 mins      ████████████████████░░░░░   79.78 % 
+Windows                  2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
 🤖 **AI Coding This Week** 
